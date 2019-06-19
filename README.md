@@ -2,7 +2,7 @@
 
 Be sure to change build configuration to x86 to reproduce the bug.
 
-This project will discover and execute the test in VS2017, but not (at this time) in VS2019
+This project _will_ discover and execute the test in VS2017, but not (at this time) in VS2019
 
 [20/06/2019 10:42:18.924 AM Informational] Store opened in 0.066 sec.
 [20/06/2019 10:42:27.004 AM Informational] ---------- Discovery started ----------
